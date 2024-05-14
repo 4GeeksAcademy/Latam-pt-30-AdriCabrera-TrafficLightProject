@@ -1,3 +1,47 @@
+.traffic-top {
+    background: black;
+    display: grid;
+    width: 20px;
+    height: 150px;
+    justify-content: center;
+    margin: auto;
+}
+
+.traffic-light {
+    border-radius: 10px;
+    background: black;
+    padding: 15px;
+    display: grid;
+    justify-content: center;
+    width: 130px;
+    margin: auto;
+
+}
+
+.red {
+    background: red;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.yellow {
+    background: yellow;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.green {
+    background:green;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.glow {
+    box-shadow: 0px 0px 10px 5px white
+}
 
 /* 
 
